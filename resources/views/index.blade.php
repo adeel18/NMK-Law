@@ -225,7 +225,7 @@
         </div>
 
         <div class="row">
-          <div class="col-xxl-3 col-lg-6 d-flex align-items-stretch my-4 " data-aos="fade-up">
+          <div class="col-xxl-3 col-md-6 d-flex align-items-stretch my-4 " data-aos="fade-up">
             <div class="icon-box">
               <div class="icon"><i class="bx bxl-dribbble"></i></div>
               <h4><a href="#">Immigration Law</a></h4>
@@ -233,7 +233,7 @@
             </div>
           </div>
 
-          <div class="col-xxl-3 col-lg-6 d-flex align-items-stretch my-4 " data-aos="fade-up" data-aos-delay="150">
+          <div class="col-xxl-3 col-md-6 d-flex align-items-stretch my-4 " data-aos="fade-up" data-aos-delay="150">
             <div class="icon-box">
               <div class="icon"><i class="bx bx-file"></i></div>
               <h4><a href="#">Asylum Law</a></h4>
@@ -241,7 +241,7 @@
             </div>
           </div>
 
-          <div class="col-xxl-3 col-lg-6 d-flex align-items-stretch my-4 " data-aos="fade-up" data-aos-delay="250">
+          <div class="col-xxl-3 col-md-6 d-flex align-items-stretch my-4 " data-aos="fade-up" data-aos-delay="250">
             <div class="icon-box">
               <div class="icon"><i class="bx bx-slideshow"></i></div>
               <h4><a href="#">Family Law</a></h4>
@@ -249,7 +249,7 @@
             </div>
           </div>
 
-          <div class="col-xxl-3 col-lg-6 d-flex align-items-stretch my-4 " data-aos="fade-up" data-aos-delay="350">
+          <div class="col-xxl-3 col-md-6 d-flex align-items-stretch my-4 " data-aos="fade-up" data-aos-delay="350">
             <div class="icon-box">
               <div class="icon"><i class="bx bx-arch"></i></div>
               <h4><a href="#">Civil Litigation</a></h4>
