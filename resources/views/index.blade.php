@@ -78,7 +78,7 @@
       <h1 class="d-none">Welcome to NMK Law Chambers</h1>
       <h2 class="mt-4 mb-1 d-none">Building Bridges, Transforming Lives: Your Immigration Journey Starts Here</h2>
       <h1 class="mb-5">Guiding You Towards Justice and Peace</h1>
-      <a href="tel:+01612151931" class="btn-get-started scrollto">Call Now</a>
+      <a href="tel:01612151931" class="btn-get-started scrollto">Call Now</a>
     </div>
   </section><!-- End Hero -->
 
@@ -561,7 +561,7 @@
           </div>
 
           <div class="col-lg-3 col-md-6">
-            <a href="tel:+01612151931">
+            <a href="tel:01612151931">
             <div class="info-box  mb-4">
               <i class="bx bx-phone-call"></i>
               <h3>Call Us</h3>
@@ -571,7 +571,7 @@
           </div>
 
           <div class="col-lg-3 col-md-6">
-            <a href="tel:+07768629810">
+            <a href="tel:07768629810">
             <div class="info-box  mb-4">
               <i class="bx bx-phone-call"></i>
               <h3>Emergency No</h3>
@@ -632,7 +632,7 @@
               <p>
                 <a class="text-white" href="https://www.google.com/maps/place/13+Broughton+Ln,+Cheetham+Hill,+Manchester+M8+9TY,+UK/@53.4947243,-2.2544312,17z/data=!3m1!4b1!4m6!3m5!1s0x487bb1cdeda7fcf1:0x7b121389f42f711!8m2!3d53.4947211!4d-2.2518563!16s%2Fg%2F11c5kj4b4f?entry=ttu" target="_blank">
                 © First Floor 13-C Broughton Lane,<br> Manchester, M8 9TY</a><br><br>
-                <strong>Phone:</strong> <a class="text-white" href="+01612151931">0161 215 1931</a><br>
+                <strong>Phone:</strong> <a class="text-white" href="tel:01612151931">0161 215 1931</a><br>
                 <strong>Email:</strong> <a class="text-white" href="mailto:info@nmklaw.co.uk">info@nmklaw.co.uk</a><br>
               </p>
               <div class="social-links mt-3">
